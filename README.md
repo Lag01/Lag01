@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bonjour bienvenue sur mon github je suis un étudiant en informatique et web designer à ses heures perdues
 
 <!--
 **Lag01/Lag01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
